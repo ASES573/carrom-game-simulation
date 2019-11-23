@@ -1,0 +1,9 @@
+coin|black|9
+coin|red|1
+coin|none|1
+Strike|black|1|1|0
+Multi-strike|black|0|2|0
+Red-strike|red|1|3|0
+Striker-strike|null|0|-1|1
+Defunct-coin|black|1|-2|1
+none|none|0|0|1
