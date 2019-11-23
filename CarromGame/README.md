@@ -23,7 +23,7 @@ Build the Project
 Run the project by providing inputs in input.txt under resources/data
 ```
 
-* **Aswath Madhubabu** - 
+* Author: **Aswath Madhubabu** - 
 
 ## License
 
